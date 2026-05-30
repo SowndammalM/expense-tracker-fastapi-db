@@ -188,6 +188,20 @@ This project helped me learn:
 
 ---
 
+## Screenshots
+
+### Swagger UI
+
+![Swagger UI](screenshots/swagger-home.png)
+
+### Add Expense API
+
+![Add Expense](screenshots/add-expense.png)
+
+### Get All Expenses API
+
+![Get Expenses](screenshots/get-expenses.png)
+
 ## Author
 
 **Sowndammal M**
