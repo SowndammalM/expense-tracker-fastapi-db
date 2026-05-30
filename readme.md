@@ -200,7 +200,7 @@ This project helped me learn:
 
 ### Get All Expenses API
 
-![Get Expenses](screenshots/get-expenses.png)
+![Get Expenses](screenshots/get-expense.png)
 
 ## Author
 
